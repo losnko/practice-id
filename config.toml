@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'The Practice of Information Design 4680'
+theme = 'shadocs'
