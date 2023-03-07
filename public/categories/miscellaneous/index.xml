@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous on The Practice of Information Design 4680</title>
+    <link>http://example.org/categories/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on The Practice of Information Design 4680</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>http://example.org/introduction/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/introduction/glossary/</guid>
+      <description> Glossary # </description>
+    </item>
+    
+    <item>
+      <title>Sitemap</title>
+      <link>http://example.org/sitemap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sitemap/</guid>
+      <description>The Practice of Information Design
+Information Architecture
+Glossary
+Information types
+Examples
+Good vs bad design
+Organizing Information
+Information Blocks
+Chunking
+Labels
+Size &amp;amp; Content
+Information Map/Template
+Tables
+Usability
+Online Usability
+Navigation
+Images
+Pop-Ups
+Measuring Usability
+Requirement
+Rapid Prototype
+Card Sorting
+Tree Testing
+Performance Testing
+Learnability
+Visual Design
+Colour Contrast
+Size
+Readability
+Sitemap</description>
+    </item>
+    
+  </channel>
+</rss>

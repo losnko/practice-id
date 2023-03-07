@@ -2,10 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/introduction/glossary/</loc>
+  </url><url>
+    <loc>http://example.org/introduction/</loc>
+  </url><url>
+    <loc>http://example.org/organizing_information/information_blocks/</loc>
+  </url><url>
+    <loc>http://example.org/usability/online_usability/</loc>
+  </url><url>
+    <loc>http://example.org/organizing_information/chunking/</loc>
+  </url><url>
+    <loc>http://example.org/visual_design/colour_contrast/</loc>
+  </url><url>
+    <loc>http://example.org/information_types/</loc>
+  </url><url>
+    <loc>http://example.org/organizing_information/labels/</loc>
+  </url><url>
+    <loc>http://example.org/organizing_information/</loc>
+  </url><url>
+    <loc>http://example.org/visual_design/size/</loc>
+  </url><url>
+    <loc>http://example.org/visual_design/readability/</loc>
+  </url><url>
+    <loc>http://example.org/organizing_information/size_content/</loc>
+  </url><url>
+    <loc>http://example.org/usability/</loc>
+  </url><url>
+    <loc>http://example.org/organizing_information/information_map/</loc>
+  </url><url>
+    <loc>http://example.org/visual_design/</loc>
+  </url><url>
+    <loc>http://example.org/sitemap/</loc>
+  </url><url>
+    <loc>http://example.org/organizing_information/tables/</loc>
+  </url><url>
+    <loc>http://example.org/information_types/good_examples/</loc>
+  </url><url>
+    <loc>http://example.org/usability/online_usability/navigation/</loc>
+  </url><url>
+    <loc>http://example.org/usability/measuring_usability/requirements/</loc>
+  </url><url>
+    <loc>http://example.org/information_types/bad_examples/</loc>
+  </url><url>
+    <loc>http://example.org/usability/online_usability/images/</loc>
+  </url><url>
+    <loc>http://example.org/usability/measuring_usability/rapid_prototype/</loc>
+  </url><url>
+    <loc>http://example.org/usability/measuring_usability/card_sort/</loc>
+  </url><url>
+    <loc>http://example.org/usability/measuring_usability/</loc>
+  </url><url>
+    <loc>http://example.org/usability/online_usability/popups/</loc>
+  </url><url>
+    <loc>http://example.org/usability/measuring_usability/tree_testing/</loc>
+  </url><url>
+    <loc>http://example.org/usability/measuring_usability/performance_testing/</loc>
+  </url><url>
+    <loc>http://example.org/usability/measuring_usability/learnability/</loc>
+  </url><url>
     <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/content-management/</loc>
+  </url><url>
+    <loc>http://example.org/tags/information-architecture/</loc>
+  </url><url>
+    <loc>http://example.org/categories/information-types/</loc>
+  </url><url>
+    <loc>http://example.org/categories/introduction/</loc>
+  </url><url>
+    <loc>http://example.org/categories/miscellaneous/</loc>
+  </url><url>
+    <loc>http://example.org/categories/organizing-information/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url><url>
     <loc>http://example.org/</loc>
+  </url><url>
+    <loc>http://example.org/categories/usability/</loc>
+  </url><url>
+    <loc>http://example.org/tags/user-experience/</loc>
+  </url><url>
+    <loc>http://example.org/categories/visual-design/</loc>
   </url>
 </urlset>

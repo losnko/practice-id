@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Design on The Practice of Information Design 4680</title>
+    <link>http://example.org/visual_design/</link>
+    <description>Recent content in Visual Design on The Practice of Information Design 4680</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/visual_design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colour Contrast</title>
+      <link>http://example.org/visual_design/colour_contrast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/visual_design/colour_contrast/</guid>
+      <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
+Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
+    </item>
+    
+    <item>
+      <title>Size</title>
+      <link>http://example.org/visual_design/size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/visual_design/size/</guid>
+      <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
+Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
+    </item>
+    
+    <item>
+      <title>Readability</title>
+      <link>http://example.org/visual_design/readability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/visual_design/readability/</guid>
+      <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
+Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
+    </item>
+    
+  </channel>
+</rss>
