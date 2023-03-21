@@ -6,116 +6,19 @@ titleIcon: "fa-solid fa-circle-half-stroke"
 categories: ["Visual design"]
 tags: ["Content management"]
 ---
-# Colour contrast
+# Designing With Colour 
+---
 
-## Additionally, this project features callouts:
-{{< alert type="info" >}} This an example of **info** type callout/alert{{< /alert >}}
-{{< alert type="success" >}} This an example of **success** type callout/alert{{< /alert >}}
-{{< alert type="warning" >}} This an example of **warning** type callout/alert{{< /alert >}}
-{{< alert type="error" >}} This an example of **error** type callout/alert{{< /alert >}}
+## Colour Contrast:
+Our visual system combines the signals from retinal cone cells to produce three colour-opponent channels:
+- red-green,
+- yellow-blue, and
+- black-white.
 
-### Blockquotes
+The colours that people can distinguish easiest are those that cause a strong signal (positive or negative). Not surprisingly, those colours are red, green, yellow, blue, black, and white. All other colour cause signals on more than one colour channel, causing our visual system to struggle to distinguish between them as quickly as the listed six colours. 
 
-{{< blockquote source="Santa Clause" >}}Ho, ho, ho! Information Architecture{{< /blockquote >}}
+## Separate Strong Opponent Colours:
+Placing opponent colours right next to, or on top of, each other causes a shimmering sensation; ultimately it should be avoided. 
 
-### Drawers
-
-{{< collapsible >}}These collapsible blocks help reduce information displayed on screen at one time{{< /collapsible >}} 
-
-### Data visualizations
-{{< highcharts
-  id="highcharts1"
-  assets=""
-  source="/highcharts/example-default.json"
->}}
-
-### Project management
-
-{{< highcharts
-  id="highcharts2"
-  assets="js/external/highcharts/modules/gantt.min.js"
-  source="/highcharts/example-gantt.json"
->}}
-
-### Information tree
-
-{{< treeview
-    display="tree"
->}}
-[{
-    "kind": "dir",
-    "label": "***Directory***",
-    "content": [{
-            "kind": "archive",
-            "label": "***Archive***",
-            "content": [{
-                    "kind": "dir",
-                    "label": "***Directory** in an archive*",
-                    "content": [{
-                            "kind": "file",
-                            "label": "***Flat file** in a directory in an archive*"
-                        }]
-                },{
-                    "kind": "file",
-                    "label": "***Flat file** in an archive*"
-                }]
-        },{
-            "kind": "file",
-            "label": "***Flat file** in a directory*"
-        }]
-},{
-    "kind": "default",
-    "label": "***Default***"
-},{
-    "kind": "dir",
-    "label": "***Directory***"
-},{
-    "kind": "file",
-    "label": "***File***"
-},{
-    "kind": "home",
-    "label": "***Home***"
-},{
-    "kind": "page",
-    "label": "***Page***"
-},{
-    "kind": "section",
-    "label": "***Section***"
-},{
-    "kind": "taxonomy",
-    "label": "***Taxonomy***"
-},{
-    "kind": "term",
-    "label": "***Taxonomy's term***"
-},{
-    "kind": "archive",
-    "label": "***Archive***"
-},{
-    "kind": "image",
-    "label": "***Image file***"
-},{
-    "kind": "video",
-    "label": "***Video file***"
-},{
-    "kind": "script",
-    "label": "***Script***"
-},{
-    "kind": "dockerfile",
-    "label": "***Dockerfile***"
-},{
-    "kind": "pdf",
-    "label": "***PDF file***"
-},{
-    "kind": "powerpoint",
-    "label": "***PowerPoint file***"
-},{
-    "kind": "excel",
-    "label": "***Excel file***"
-},{
-    "kind": "csv",
-    "label": "***CSV file***"
-},{
-    "kind": "word",
-    "label": "***Word file***"
-}]
-{{< /treeview >}}
+## Distinguish Colours by Saturation and Brightness:
+Ensure your software uses colours which are perceptible to all sighted users, and avoid subtle colour differences. Ensure that the contrast between two colours is high, you can do this though converting the colours to a greyscale colour system and see the two colour that are most different.

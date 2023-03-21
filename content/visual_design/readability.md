@@ -6,116 +6,25 @@ titleIcon: "fa-solid fa-eye-low-vision"
 categories: ["Visual design"]
 tags: ["Content management"]
 ---
-# Colour contrast
+# Readability of Content: 
+---
+## Unfamiliar/Uncommon Vocabulary:
+Use vocabulary that readers are familiar with and don’t disrupt the flow of freaking - stick to words that are easy to understand. 
 
-## Additionally, this project features callouts:
-{{< alert type="info" >}} This an example of **info** type callout/alert{{< /alert >}}
-{{< alert type="success" >}} This an example of **success** type callout/alert{{< /alert >}}
-{{< alert type="warning" >}} This an example of **warning** type callout/alert{{< /alert >}}
-{{< alert type="error" >}} This an example of **error** type callout/alert{{< /alert >}}
+## Difficult Script/Typefaces:
+Fonts with minimal spacing or difficult shapes make it difficult to recognize - stick to simple, easy-to-read fonts. 
 
-### Blockquotes
+## Tiny Fonts:
+Fonts that are too small can cause the readers’ visual system to be unable to read the content - stick to a font size that is appropriate for all audiences.
 
-{{< blockquote source="Santa Clause" >}}Ho, ho, ho! Information Architecture{{< /blockquote >}}
+## Text on Noisy Backgrounds:
+Inserting text on a visually noisy background can disrupt the readability and recognition of features, characters, and overall words. 
 
-### Drawers
+## Text Contrasts Poorly with Backgrounds:
+If backgrounds content similar colours to the text, it can be difficult to see the contrast between the two. 
 
-{{< collapsible >}}These collapsible blocks help reduce information displayed on screen at one time{{< /collapsible >}} 
+## Information Repetition:
+If successive lines of text contain lots of repetition, it can disturb the flow of information. 
 
-### Data visualizations
-{{< highcharts
-  id="highcharts1"
-  assets=""
-  source="/highcharts/example-default.json"
->}}
-
-### Project management
-
-{{< highcharts
-  id="highcharts2"
-  assets="js/external/highcharts/modules/gantt.min.js"
-  source="/highcharts/example-gantt.json"
->}}
-
-### Information tree
-
-{{< treeview
-    display="tree"
->}}
-[{
-    "kind": "dir",
-    "label": "***Directory***",
-    "content": [{
-            "kind": "archive",
-            "label": "***Archive***",
-            "content": [{
-                    "kind": "dir",
-                    "label": "***Directory** in an archive*",
-                    "content": [{
-                            "kind": "file",
-                            "label": "***Flat file** in a directory in an archive*"
-                        }]
-                },{
-                    "kind": "file",
-                    "label": "***Flat file** in an archive*"
-                }]
-        },{
-            "kind": "file",
-            "label": "***Flat file** in a directory*"
-        }]
-},{
-    "kind": "default",
-    "label": "***Default***"
-},{
-    "kind": "dir",
-    "label": "***Directory***"
-},{
-    "kind": "file",
-    "label": "***File***"
-},{
-    "kind": "home",
-    "label": "***Home***"
-},{
-    "kind": "page",
-    "label": "***Page***"
-},{
-    "kind": "section",
-    "label": "***Section***"
-},{
-    "kind": "taxonomy",
-    "label": "***Taxonomy***"
-},{
-    "kind": "term",
-    "label": "***Taxonomy's term***"
-},{
-    "kind": "archive",
-    "label": "***Archive***"
-},{
-    "kind": "image",
-    "label": "***Image file***"
-},{
-    "kind": "video",
-    "label": "***Video file***"
-},{
-    "kind": "script",
-    "label": "***Script***"
-},{
-    "kind": "dockerfile",
-    "label": "***Dockerfile***"
-},{
-    "kind": "pdf",
-    "label": "***PDF file***"
-},{
-    "kind": "powerpoint",
-    "label": "***PowerPoint file***"
-},{
-    "kind": "excel",
-    "label": "***Excel file***"
-},{
-    "kind": "csv",
-    "label": "***CSV file***"
-},{
-    "kind": "word",
-    "label": "***Word file***"
-}]
-{{< /treeview >}}
+## Centred Text:
+Automatic eye movement takes our eyes back to the same horizontal position and down one line while we read. If large bodies of text are centred or misaligned, it disturbs the automatic eye movement - stick to left-aligned text with large bodies of content. 

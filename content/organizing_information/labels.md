@@ -6,202 +6,40 @@ titleIcon: "fa-solid fa-tag"
 categories: ["Organizing information"]
 tags: ["Content management"]
 ---
-# Headings
+# Labels
+Labels act as shortcuts to communicate information efficiently. They are used for guiding readers or users while navigating the site by scanning for the relevant label. If someone wants to find contact information for a business they’ll look for a contact label, if they want to navigate back to the home page they will look for the home button or text, a restaurant webpage will normally have a menu label. Without labels, people would not know where to look. Sites, apps, information blocks, and documents should all have labels as well as any graphics, tables, data visualizations and figures.
+ 
+## Types of labels:
+- Contextual Links: Hyperlinked words that go to other pages or other sections of the same page. They should have a clear and simple meaning the user will understand. Can be separate or in a paragraph
+ 
+- Headings: Tells the user what the next section of information will be about
+ 
+- Navigational System Choices: Options to navigate, such as scroll down
+ 
+- Iconic labels: Icons such as a house for the home button
+ 
+- Index Terms: Usually invisible to users, these labels are used in the background of a site or app to make searching or browsing easier. For example, if someone searches for purses, necklaces, or scarves they might all belong to the index term accessories and suggest that page on a clothing site.
+ 
+## Label guidelines
+1. Accurate description of the following block
+1. Short & concise
+1. Avoid jargon unless it’s for that technical audience
+1. Simple
+1. Convey the importance of the block
+1. Avoid phrases or sentences
+1. Can use questions
+ 
+## Labels should be consistent in
+- Style
+- Similarity & proximity
+- Vocabulary & lexicon
+- Granularity
+- Audience
+- Contextual relevance
+ 
+## Bad labels
+- Confusing
+- Too general
+- Vague
+- Don’t fit the context
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-Additionally, this project features callouts:
-{{< alert type="info" >}} This an example of **info** type callout/alert{{< /alert >}}
-{{< alert type="success" >}} This an example of **success** type callout/alert{{< /alert >}}
-{{< alert type="warning" >}} This an example of **warning** type callout/alert{{< /alert >}}
-{{< alert type="error" >}} This an example of **error** type callout/alert{{< /alert >}}
-
-### Blockquotes
-
-{{< blockquote source="Santa Clause" >}}Ho, ho, ho! Information Architecture{{< /blockquote >}}
-
-### Drawers
-
-{{< collapsible >}}These collapsible blocks help reduce information displayed on screen at one time{{< /collapsible >}} 
-
-### Data visualizations
-{{< highcharts
-  id="highcharts1"
-  assets=""
-  source="/highcharts/example-default.json"
->}}
-
-### Project management
-
-{{< highcharts
-  id="highcharts2"
-  assets="js/external/highcharts/modules/gantt.min.js"
-  source="/highcharts/example-gantt.json"
->}}
-
-### Information tree
-
-{{< treeview
-    display="tree"
->}}
-[{
-    "kind": "dir",
-    "label": "***Directory***",
-    "content": [{
-            "kind": "archive",
-            "label": "***Archive***",
-            "content": [{
-                    "kind": "dir",
-                    "label": "***Directory** in an archive*",
-                    "content": [{
-                            "kind": "file",
-                            "label": "***Flat file** in a directory in an archive*"
-                        }]
-                },{
-                    "kind": "file",
-                    "label": "***Flat file** in an archive*"
-                }]
-        },{
-            "kind": "file",
-            "label": "***Flat file** in a directory*"
-        }]
-},{
-    "kind": "default",
-    "label": "***Default***"
-},{
-    "kind": "dir",
-    "label": "***Directory***"
-},{
-    "kind": "file",
-    "label": "***File***"
-},{
-    "kind": "home",
-    "label": "***Home***"
-},{
-    "kind": "page",
-    "label": "***Page***"
-},{
-    "kind": "section",
-    "label": "***Section***"
-},{
-    "kind": "taxonomy",
-    "label": "***Taxonomy***"
-},{
-    "kind": "term",
-    "label": "***Taxonomy's term***"
-},{
-    "kind": "archive",
-    "label": "***Archive***"
-},{
-    "kind": "image",
-    "label": "***Image file***"
-},{
-    "kind": "video",
-    "label": "***Video file***"
-},{
-    "kind": "script",
-    "label": "***Script***"
-},{
-    "kind": "dockerfile",
-    "label": "***Dockerfile***"
-},{
-    "kind": "pdf",
-    "label": "***PDF file***"
-},{
-    "kind": "powerpoint",
-    "label": "***PowerPoint file***"
-},{
-    "kind": "excel",
-    "label": "***Excel file***"
-},{
-    "kind": "csv",
-    "label": "***CSV file***"
-},{
-    "kind": "word",
-    "label": "***Word file***"
-}]
-{{< /treeview >}}
