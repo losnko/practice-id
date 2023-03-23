@@ -6,91 +6,23 @@ titleIcon: "fa-solid fa-route"
 categories: ["Usability"]
 tags: ["User experience"]
 ---
-# Headings
+# Navigation
+---
+### Navigation
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Navigation plays a crucial role in online usability. Wayfinding, a concept in navigation, has four core components: orientation, route decisions, mental mapping, and closure. Orientation helps users understand where they are, route decisions help users find the way to where they want to go, mental mapping helps users track where they have been and predict where they should go next, and closure helps users recognize when they have arrived at the right place.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+### Navigational Systems
 
-## Paragraph
+There are four types of navigational systems: global, local, contextual, and supplemental. Global navigation systems are intended to be present on every page or screen in the information environment. Local navigation systems complement global ones and allow users to explore the immediate area where they are. Contextual navigation systems occur in the context of the content being presented and support associative learning by allowing users to explore the relationships between items. Supplemental navigation systems, such as sitemaps, give the reader an overview of the site contents. Site maps come in two varieties: graphic diagrams that use the "map" metaphor and organized list links to major pages within the site (Information Architecture, 2015; Rosenfeld & Morville)
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+### Types of Navigation Bars
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
+Horizontal versus vertical navigation systems
+Horizontal – Immediately available
+Horizontal – sometimes need a second bar at bottom of page
+Vertical – grid layout. Makes the navigation secondary to the main information
+Vertical – can accommodate a greater number of links than horizontal
+Pop-up navigation systems
+JavaScript navigation menus
+Image Maps: buttons, colours, roll-overs, icons

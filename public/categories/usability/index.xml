@@ -1,127 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Usability on The Practice of Information Design 4680</title>
-    <link>http://example.org/categories/usability/</link>
-    <description>Recent content in Usability on The Practice of Information Design 4680</description>
+    <title>Usability on The Practice of Information Architecture</title>
+    <link>https://practice-of-information.netlify.app/categories/usability/</link>
+    <description>Recent content in Usability on The Practice of Information Architecture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/usability/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/categories/usability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Online Usability</title>
-      <link>http://example.org/usability/online_usability/</link>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/online_usability/</guid>
-      <description>Online usability? # Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/</guid>
+      <description>Online Usability # To ensure online usability, website designers need to incorporate familiar conventions such as search, navigation, tables of contents and indexes. While website indexes may not need to be as extensive as their print counterparts, they still provide overviews, perspectives, and efficient navigation that readers will appreciate.</description>
     </item>
     
     <item>
       <title>Usability</title>
-      <link>http://example.org/usability/</link>
+      <link>https://practice-of-information.netlify.app/usability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/</guid>
-      <description> Usability # </description>
+      <guid>https://practice-of-information.netlify.app/usability/</guid>
+      <description>Usability # Usability refers to the ease with which users can access and interact with a website or application to achieve their desired goals. It encompasses factors such as ease of navigation, clarity of content, and overall user experience. Usability is a critical aspect of information architecture as it directly affects user satisfaction, engagement, and retention. A usable information architecture is one that is designed with the user in mind, making it easy for them to find what they are looking for and accomplish their tasks efficiently and effectively.</description>
     </item>
     
     <item>
       <title>Navigation</title>
-      <link>http://example.org/usability/online_usability/navigation/</link>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/navigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/online_usability/navigation/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/navigation/</guid>
+      <description>Navigation # Navigation # Navigation plays a crucial role in online usability. Wayfinding, a concept in navigation, has four core components: orientation, route decisions, mental mapping, and closure. Orientation helps users understand where they are, route decisions help users find the way to where they want to go, mental mapping helps users track where they have been and predict where they should go next, and closure helps users recognize when they have arrived at the right place.</description>
     </item>
     
     <item>
       <title>Requirement</title>
-      <link>http://example.org/usability/measuring_usability/requirements/</link>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/measuring_usability/requirements/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</guid>
+      <description>Requirements # Measuring usability begins with understanding the requirements of the product or service being tested. This involves gathering information on user needs, tasks, and goals, and using this information to inform the design of the product or service. By clearly defining the requirements upfront, usability testing can be focused on measuring how well the product or service meets these requirements.</description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>http://example.org/usability/online_usability/images/</link>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/online_usability/images/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/images/</guid>
+      <description>Images # Images convey information quickly and effectively, and can be used to supplement or replace text-based content. For example, an image could be used to represent a product or service, allowing users to quickly identify and understand what is being offered. Images can also be used to break up large blocks of text, making content more visually appealing and easier to read.</description>
     </item>
     
     <item>
       <title>Rapid Prototype</title>
-      <link>http://example.org/usability/measuring_usability/rapid_prototype/</link>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/rapid_prototype/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/measuring_usability/rapid_prototype/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/rapid_prototype/</guid>
+      <description>Rapid Prototype # Rapid prototyping is a design technique that involves quickly creating a low-fidelity version of a product or service to test usability. This approach allows designers to gather feedback early in the design process and make iterative improvements before investing in more expensive design work. Measuring usability with rapid prototyping involves testing how well users are able to interact with the prototype and identifying areas where improvements can be made.</description>
     </item>
     
     <item>
       <title>Card Sorting</title>
-      <link>http://example.org/usability/measuring_usability/card_sort/</link>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/card_sort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/measuring_usability/card_sort/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/card_sort/</guid>
+      <description>Card Sorting # Card sorting is a user-centred design method for evaluation that involves organizing content into categories based on user feedback. This method is used to create an information architecture that is intuitive and easy to navigate. Measuring usability with card sorting involves testing how well users are able to understand and navigate the product and identifying areas where improvements can be made.
+For example, during the development of a healthcare portal, users are asked to sort a list of medical conditions into categories that make sense to them.</description>
     </item>
     
     <item>
       <title>Measuring Usability</title>
-      <link>http://example.org/usability/measuring_usability/</link>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/measuring_usability/</guid>
-      <description> Measuring usability # </description>
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/</guid>
+      <description>Measuring usability # “Many people seem to think of the user experience as some nebulous quality that can’t be measured or quantified. It can, and the tools for measuring it are metrics like the following:
+Can users use their smartphone successfully to find the nearest doctor that’s in their health plan?
+How long does it take users to make a flight reservation using a travel website?
+How many errors do users make in trying to log in to a new system?</description>
     </item>
     
     <item>
       <title>Pop-Ups</title>
-      <link>http://example.org/usability/online_usability/popups/</link>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/popups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/online_usability/popups/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/popups/</guid>
+      <description>Pop-Ups # Pop-ups provide users with additional information, feedback, or guidance, and can be triggered by specific actions or events. For example, a pop-up could be used to provide a user with a confirmation message after completing an action, such as submitting a form. Pop-ups can also be used to provide users with helpful tips or guidance on how to navigate a website or app.</description>
     </item>
     
     <item>
       <title>Tree Testing</title>
-      <link>http://example.org/usability/measuring_usability/tree_testing/</link>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/tree_testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/measuring_usability/tree_testing/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/tree_testing/</guid>
+      <description>Tree Testing # Tree testing is a usability testing method that involves testing the organization and labelling of a website or application without the distraction of visual design. This approach helps to identify areas where users may struggle to find information or navigate the site. Measuring usability with tree testing involves evaluating how confidently users are able to complete tasks using the site structure and labelling, and identifying areas where improvements can be made.</description>
     </item>
     
     <item>
       <title>Performance Testing</title>
-      <link>http://example.org/usability/measuring_usability/performance_testing/</link>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/performance_testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/measuring_usability/performance_testing/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/performance_testing/</guid>
+      <description>Performance Testing: # Performance testing is a usability testing method that involves testing how well a product or service performs under different conditions. This includes testing speed, responsiveness, and stability. Measuring usability with performance testing involves identifying the most important performance metrics for the product or service and testing how well it performs under different conditions.
+For example, testing a mobile game performance by measuring the time it takes for the game to load on different devices and network speeds.</description>
     </item>
     
     <item>
       <title>Learnability</title>
-      <link>http://example.org/usability/measuring_usability/learnability/</link>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/learnability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/measuring_usability/learnability/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/learnability/</guid>
+      <description>Learnability: # Learnability is a measure of how easy it is for users to learn how to use a product or service. Measuring learnability involves testing how quickly users are able to complete tasks with minimal training or guidance. This can include testing how easily users are able to navigate the interface, understand terminology, and complete common tasks. By measuring learnability, designers can identify areas where the product or service can be made more intuitive and easy to use.</description>
     </item>
     
   </channel>

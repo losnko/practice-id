@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on The Practice of Information Design 4680</title>
-    <link>http://example.org/categories/introduction/</link>
-    <description>Recent content in Introduction on The Practice of Information Design 4680</description>
+    <title>Introduction on The Practice of Information Architecture</title>
+    <link>https://practice-of-information.netlify.app/categories/introduction/</link>
+    <description>Recent content in Introduction on The Practice of Information Architecture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Information Architecture</title>
-      <link>http://example.org/introduction/</link>
+      <link>https://practice-of-information.netlify.app/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/introduction/</guid>
-      <description>A history # Information architecture &amp;hellip;
-The content you write will eventually go here. Otherwise, coal for you. ~ Santa Clause
-Although Santa&amp;rsquo;s threat felt empty, we knew that he always played for keeps.</description>
+      <guid>https://practice-of-information.netlify.app/introduction/</guid>
+      <description>Information architecture # In a digital world where we are overloaded with all the information we could want at our fingertips, it can be overwhelming to try and sort through it all. Information architecture is the solution to that problem.
+Similar to IT, people often don’t think about information architecture unless it’s done badly. Good information architecture means a user is easily able to navigate a website, app, or skim a document to find important information.</description>
     </item>
     
     <item>
       <title>The Practice of Information Design</title>
-      <link>http://example.org/</link>
+      <link>https://practice-of-information.netlify.app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/</guid>
+      <guid>https://practice-of-information.netlify.app/</guid>
       <description> A Guide to Information Architecture # The Practice of Information Design
 Information Architecture
 Glossary

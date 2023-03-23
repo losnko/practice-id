@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sitemap on The Practice of Information Design 4680</title>
-    <link>http://example.org/sitemap/</link>
-    <description>Recent content in Sitemap on The Practice of Information Design 4680</description>
+    <title>Sitemap on The Practice of Information Architecture</title>
+    <link>https://practice-of-information.netlify.app/sitemap/</link>
+    <description>Recent content in Sitemap on The Practice of Information Architecture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/sitemap/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/sitemap/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

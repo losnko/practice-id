@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Online Usability on The Practice of Information Design 4680</title>
-    <link>http://example.org/usability/online_usability/</link>
-    <description>Recent content in Online Usability on The Practice of Information Design 4680</description>
+    <title>Online Usability on The Practice of Information Architecture</title>
+    <link>https://practice-of-information.netlify.app/usability/online_usability/</link>
+    <description>Recent content in Online Usability on The Practice of Information Architecture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/usability/online_usability/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/usability/online_usability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigation</title>
-      <link>http://example.org/usability/online_usability/navigation/</link>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/navigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/online_usability/navigation/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/navigation/</guid>
+      <description>Navigation # Navigation # Navigation plays a crucial role in online usability. Wayfinding, a concept in navigation, has four core components: orientation, route decisions, mental mapping, and closure. Orientation helps users understand where they are, route decisions help users find the way to where they want to go, mental mapping helps users track where they have been and predict where they should go next, and closure helps users recognize when they have arrived at the right place.</description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>http://example.org/usability/online_usability/images/</link>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/online_usability/images/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/images/</guid>
+      <description>Images # Images convey information quickly and effectively, and can be used to supplement or replace text-based content. For example, an image could be used to represent a product or service, allowing users to quickly identify and understand what is being offered. Images can also be used to break up large blocks of text, making content more visually appealing and easier to read.</description>
     </item>
     
     <item>
       <title>Pop-Ups</title>
-      <link>http://example.org/usability/online_usability/popups/</link>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/popups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/usability/online_usability/popups/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/popups/</guid>
+      <description>Pop-Ups # Pop-ups provide users with additional information, feedback, or guidance, and can be triggered by specific actions or events. For example, a pop-up could be used to provide a user with a confirmation message after completing an action, such as submitting a form. Pop-ups can also be used to provide users with helpful tips or guidance on how to navigate a website or app.</description>
     </item>
     
   </channel>

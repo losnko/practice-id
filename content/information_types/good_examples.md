@@ -41,11 +41,20 @@ Refers to a visual representation of a system, process, or structure, usually us
 
 ```mermaid
 graph LR
-    subgraph приклад сайту 2
-    b1(Action 2.1) --> b2(Action 2.2)
+    subgraph Activity 3
+    c1(Action 3.0) --> c2(Action 3.1)
+    a3 --> c1 
+    c1 --> a3
     end
-    subgraph приклад сайту 1
+    subgraph Activity 2
+    b1(Action 2.1) --> b2(Action 2.2)
+    b3(Action 2.0) --> b2
+    b2 --> a3
+    end
+    subgraph Activity 1
     a1(Action 1.1) --> a2(Action 1.2)
+    a1 --> a3(Action 1.3)
+    a2 --> a4(Finished)
     end
 ```
 

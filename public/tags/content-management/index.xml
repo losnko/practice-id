@@ -1,157 +1,165 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content management on The Practice of Information Design 4680</title>
-    <link>http://example.org/tags/content-management/</link>
-    <description>Recent content in Content management on The Practice of Information Design 4680</description>
+    <title>Content management on The Practice of Information Architecture</title>
+    <link>https://practice-of-information.netlify.app/tags/content-management/</link>
+    <description>Recent content in Content management on The Practice of Information Architecture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Information Architecture</title>
-      <link>http://example.org/introduction/</link>
+      <link>https://practice-of-information.netlify.app/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/introduction/</guid>
-      <description>A history # Information architecture &amp;hellip;
-The content you write will eventually go here. Otherwise, coal for you. ~ Santa Clause
-Although Santa&amp;rsquo;s threat felt empty, we knew that he always played for keeps.</description>
+      <guid>https://practice-of-information.netlify.app/introduction/</guid>
+      <description>Information architecture # In a digital world where we are overloaded with all the information we could want at our fingertips, it can be overwhelming to try and sort through it all. Information architecture is the solution to that problem.
+Similar to IT, people often don’t think about information architecture unless it’s done badly. Good information architecture means a user is easily able to navigate a website, app, or skim a document to find important information.</description>
     </item>
     
     <item>
       <title>Information Blocks</title>
-      <link>http://example.org/organizing_information/information_blocks/</link>
+      <link>https://practice-of-information.netlify.app/organizing_information/information_blocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/organizing_information/information_blocks/</guid>
-      <description>Blocks # Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/organizing_information/information_blocks/</guid>
+      <description>Information Blocks # Information Blocks are an alternative way to present and analyze information instead of a paragraph. They are used for small bits of sections of information grouped together with a specific purpose, such as instructions, warnings, steps, or short documents like procedure, policy, and process documentation.
+Characteristics of an information block Short sentences (2-9) Short paragraphs Single or limited topic Always has a label Can be a diagram Constructed via 4 Principles Chunking, Relevance, Consistency, Labeling</description>
     </item>
     
     <item>
       <title>Chunking</title>
-      <link>http://example.org/organizing_information/chunking/</link>
+      <link>https://practice-of-information.netlify.app/organizing_information/chunking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/organizing_information/chunking/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/organizing_information/chunking/</guid>
+      <description>#Chunking # Breaking information into smaller “chunks” so it’s easier to understand and digest. By creating visual entry points, it makes it easier for the user to navigate the document and scan for the information they are looking for or get the key highlights</description>
     </item>
     
     <item>
       <title>Colour Contrast</title>
-      <link>http://example.org/visual_design/colour_contrast/</link>
+      <link>https://practice-of-information.netlify.app/visual_design/colour_contrast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/visual_design/colour_contrast/</guid>
-      <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
-Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
+      <guid>https://practice-of-information.netlify.app/visual_design/colour_contrast/</guid>
+      <description>Designing With Colour # Colour Contrast: # Our visual system combines the signals from retinal cone cells to produce three colour-opponent channels:
+red-green, yellow-blue, and black-white. The colours that people can distinguish easiest are those that cause a strong signal (positive or negative). Not surprisingly, those colours are red, green, yellow, blue, black, and white. All other colour cause signals on more than one colour channel, causing our visual system to struggle to distinguish between them as quickly as the listed six colours.</description>
     </item>
     
     <item>
       <title>Information types</title>
-      <link>http://example.org/information_types/</link>
+      <link>https://practice-of-information.netlify.app/information_types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/information_types/</guid>
-      <description> Types and xamples # </description>
+      <guid>https://practice-of-information.netlify.app/information_types/</guid>
+      <description>Information Types: # The type of information can be distinguished by process, structure concept, principle, fact, and classification. Information types are not necessarily limited to these six categories, as they can be defined as organization systems, labelling systems, navigation systems, and search systems. These, however, refer more so to information structures, rather than systems.
+For all intent and purposes, the six main categories are as listed and defined below:</description>
     </item>
     
     <item>
       <title>Labels</title>
-      <link>http://example.org/organizing_information/labels/</link>
+      <link>https://practice-of-information.netlify.app/organizing_information/labels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/organizing_information/labels/</guid>
-      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://practice-of-information.netlify.app/organizing_information/labels/</guid>
+      <description>Labels # Labels act as shortcuts to communicate information efficiently. They are used for guiding readers or users while navigating the site by scanning for the relevant label. If someone wants to find contact information for a business they’ll look for a contact label, if they want to navigate back to the home page they will look for the home button or text, a restaurant webpage will normally have a menu label.</description>
     </item>
     
     <item>
       <title>Organizing Information</title>
-      <link>http://example.org/organizing_information/</link>
+      <link>https://practice-of-information.netlify.app/organizing_information/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/organizing_information/</guid>
-      <description>Organizing information # This is where that will go
-Organizing information for search # and this if that, else those
-blocks chunks labels size &amp;amp; content information map/template tables Organizing information for use # Additionally, this project features callouts: This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho!</description>
+      <guid>https://practice-of-information.netlify.app/organizing_information/</guid>
+      <description>Information Organization # Information organization is the process of making data meaningful by organizing it. Data on it’s own is hard to understand at a glance, and if there are large volumes of data it can only have meaning once it’s chunked, labeled, and shaped into something a user can understand.
+When organizing information: # All information should be easy to locate The most important information should be emphasized All information should be chunked The material should be easy to skim There should be a flow or sequence LATCH # The most common ways to organize information make up the acronym LATCH.</description>
     </item>
     
     <item>
       <title>Size</title>
-      <link>http://example.org/visual_design/size/</link>
+      <link>https://practice-of-information.netlify.app/visual_design/size/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/visual_design/size/</guid>
+      <guid>https://practice-of-information.netlify.app/visual_design/size/</guid>
       <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
 Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
     </item>
     
     <item>
       <title>Readability</title>
-      <link>http://example.org/visual_design/readability/</link>
+      <link>https://practice-of-information.netlify.app/visual_design/readability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/visual_design/readability/</guid>
-      <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
-Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
+      <guid>https://practice-of-information.netlify.app/visual_design/readability/</guid>
+      <description>Readability of Content: # Unfamiliar/Uncommon Vocabulary: # Use vocabulary that readers are familiar with and don’t disrupt the flow of freaking - stick to words that are easy to understand.
+Difficult Script/Typefaces: # Fonts with minimal spacing or difficult shapes make it difficult to recognize - stick to simple, easy-to-read fonts.
+Tiny Fonts: # Fonts that are too small can cause the readers’ visual system to be unable to read the content - stick to a font size that is appropriate for all audiences.</description>
     </item>
     
     <item>
       <title>Size &amp; Content</title>
-      <link>http://example.org/organizing_information/size_content/</link>
+      <link>https://practice-of-information.netlify.app/organizing_information/size_content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/organizing_information/size_content/</guid>
+      <guid>https://practice-of-information.netlify.app/organizing_information/size_content/</guid>
       <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     
     <item>
       <title>Information Map/Template</title>
-      <link>http://example.org/organizing_information/information_map/</link>
+      <link>https://practice-of-information.netlify.app/organizing_information/information_map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/organizing_information/information_map/</guid>
+      <guid>https://practice-of-information.netlify.app/organizing_information/information_map/</guid>
       <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     
     <item>
       <title>Visual Design</title>
-      <link>http://example.org/visual_design/</link>
+      <link>https://practice-of-information.netlify.app/visual_design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/visual_design/</guid>
-      <description> Visual design # </description>
+      <guid>https://practice-of-information.netlify.app/visual_design/</guid>
+      <description>Visual Design: # When designing applications, websites, or any type of display of content, it is important to consider the readability, colour scheme, vocabulary, font types, text alignment, etc. The main goal of a designer should always be to support reading and understand that skilled reading is based on feature, character, and word recognition. To provide legibility for all users’, designers should be conscious of the following:</description>
     </item>
     
     <item>
       <title>Tables</title>
-      <link>http://example.org/organizing_information/tables/</link>
+      <link>https://practice-of-information.netlify.app/organizing_information/tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/organizing_information/tables/</guid>
+      <guid>https://practice-of-information.netlify.app/organizing_information/tables/</guid>
       <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     
     <item>
       <title>Examples</title>
-      <link>http://example.org/information_types/good_examples/</link>
+      <link>https://practice-of-information.netlify.app/information_types/good_examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/information_types/good_examples/</guid>
-      <description> Examples # </description>
+      <guid>https://practice-of-information.netlify.app/information_types/good_examples/</guid>
+      <description>Examples of Information Types: # When compiling information, there are specific examples of information types that a designer can follow, for instance:
+Site Mapping: # Refers to the process of creating a visual representation of a website’s structure, layout, and content.
+Tap + to explore the interactive map of this site The Practice of Information Design
+Information Architecture
+Glossary
+Information types
+Examples
+Good vs bad design
+Organizing Information
+Information Blocks</description>
     </item>
     
     <item>
       <title>Good vs bad design</title>
-      <link>http://example.org/information_types/bad_examples/</link>
+      <link>https://practice-of-information.netlify.app/information_types/bad_examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/information_types/bad_examples/</guid>
-      <description> Good vs bad design examples # </description>
+      <guid>https://practice-of-information.netlify.app/information_types/bad_examples/</guid>
+      <description>Good Vs. Bad Design: # Design can be evaluated by clarity, consistency, and understanding the user&amp;rsquo;s goals. Designers should stay consistent with their content, ensuring that the information is legible and stays within the topic category.
+Avoid Ambiguity: # Use clear information displays and test your design to ensure that all users understand the display in the same way. Where ambiguity is avoidable, use standards or conventions to resolve it, and stay uniform.</description>
     </item>
     
   </channel>

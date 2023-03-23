@@ -2,86 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/introduction/glossary/</loc>
+    <loc>https://practice-of-information.netlify.app/introduction/glossary/</loc>
   </url><url>
-    <loc>http://example.org/introduction/</loc>
+    <loc>https://practice-of-information.netlify.app/introduction/</loc>
   </url><url>
-    <loc>http://example.org/organizing_information/information_blocks/</loc>
+    <loc>https://practice-of-information.netlify.app/organizing_information/information_blocks/</loc>
   </url><url>
-    <loc>http://example.org/usability/online_usability/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/online_usability/</loc>
   </url><url>
-    <loc>http://example.org/organizing_information/chunking/</loc>
+    <loc>https://practice-of-information.netlify.app/organizing_information/chunking/</loc>
   </url><url>
-    <loc>http://example.org/visual_design/colour_contrast/</loc>
+    <loc>https://practice-of-information.netlify.app/visual_design/colour_contrast/</loc>
   </url><url>
-    <loc>http://example.org/information_types/</loc>
+    <loc>https://practice-of-information.netlify.app/information_types/</loc>
   </url><url>
-    <loc>http://example.org/organizing_information/labels/</loc>
+    <loc>https://practice-of-information.netlify.app/organizing_information/labels/</loc>
   </url><url>
-    <loc>http://example.org/organizing_information/</loc>
+    <loc>https://practice-of-information.netlify.app/organizing_information/</loc>
   </url><url>
-    <loc>http://example.org/visual_design/size/</loc>
+    <loc>https://practice-of-information.netlify.app/visual_design/size/</loc>
   </url><url>
-    <loc>http://example.org/visual_design/readability/</loc>
+    <loc>https://practice-of-information.netlify.app/visual_design/readability/</loc>
   </url><url>
-    <loc>http://example.org/organizing_information/size_content/</loc>
+    <loc>https://practice-of-information.netlify.app/organizing_information/size_content/</loc>
   </url><url>
-    <loc>http://example.org/usability/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/</loc>
   </url><url>
-    <loc>http://example.org/organizing_information/information_map/</loc>
+    <loc>https://practice-of-information.netlify.app/organizing_information/information_map/</loc>
   </url><url>
-    <loc>http://example.org/visual_design/</loc>
+    <loc>https://practice-of-information.netlify.app/visual_design/</loc>
   </url><url>
-    <loc>http://example.org/sitemap/</loc>
+    <loc>https://practice-of-information.netlify.app/sitemap/</loc>
   </url><url>
-    <loc>http://example.org/organizing_information/tables/</loc>
+    <loc>https://practice-of-information.netlify.app/organizing_information/tables/</loc>
   </url><url>
-    <loc>http://example.org/information_types/good_examples/</loc>
+    <loc>https://practice-of-information.netlify.app/information_types/good_examples/</loc>
   </url><url>
-    <loc>http://example.org/usability/online_usability/navigation/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/online_usability/navigation/</loc>
   </url><url>
-    <loc>http://example.org/usability/measuring_usability/requirements/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</loc>
   </url><url>
-    <loc>http://example.org/information_types/bad_examples/</loc>
+    <loc>https://practice-of-information.netlify.app/information_types/bad_examples/</loc>
   </url><url>
-    <loc>http://example.org/usability/online_usability/images/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/online_usability/images/</loc>
   </url><url>
-    <loc>http://example.org/usability/measuring_usability/rapid_prototype/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/measuring_usability/rapid_prototype/</loc>
   </url><url>
-    <loc>http://example.org/usability/measuring_usability/card_sort/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/measuring_usability/card_sort/</loc>
   </url><url>
-    <loc>http://example.org/usability/measuring_usability/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/measuring_usability/</loc>
   </url><url>
-    <loc>http://example.org/usability/online_usability/popups/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/online_usability/popups/</loc>
   </url><url>
-    <loc>http://example.org/usability/measuring_usability/tree_testing/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/measuring_usability/tree_testing/</loc>
   </url><url>
-    <loc>http://example.org/usability/measuring_usability/performance_testing/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/measuring_usability/performance_testing/</loc>
   </url><url>
-    <loc>http://example.org/usability/measuring_usability/learnability/</loc>
+    <loc>https://practice-of-information.netlify.app/usability/measuring_usability/learnability/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://practice-of-information.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/content-management/</loc>
+    <loc>https://practice-of-information.netlify.app/tags/content-management/</loc>
   </url><url>
-    <loc>http://example.org/tags/information-architecture/</loc>
+    <loc>https://practice-of-information.netlify.app/categories/information-types/</loc>
   </url><url>
-    <loc>http://example.org/categories/information-types/</loc>
+    <loc>https://practice-of-information.netlify.app/categories/introduction/</loc>
   </url><url>
-    <loc>http://example.org/categories/introduction/</loc>
+    <loc>https://practice-of-information.netlify.app/categories/miscellaneous/</loc>
   </url><url>
-    <loc>http://example.org/categories/miscellaneous/</loc>
+    <loc>https://practice-of-information.netlify.app/categories/organizing-information/</loc>
   </url><url>
-    <loc>http://example.org/categories/organizing-information/</loc>
+    <loc>https://practice-of-information.netlify.app/tags/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://practice-of-information.netlify.app/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://practice-of-information.netlify.app/categories/usability/</loc>
   </url><url>
-    <loc>http://example.org/categories/usability/</loc>
+    <loc>https://practice-of-information.netlify.app/tags/user-experience/</loc>
   </url><url>
-    <loc>http://example.org/tags/user-experience/</loc>
-  </url><url>
-    <loc>http://example.org/categories/visual-design/</loc>
+    <loc>https://practice-of-information.netlify.app/categories/visual-design/</loc>
   </url>
 </urlset>

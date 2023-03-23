@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://practice-of-information.netlify.app/'
 languageCode = 'en-us'
-title = 'The Practice of Information Design 4680'
+title = 'The Practice of Information Architecture'
 theme = 'shadocs'
