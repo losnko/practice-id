@@ -9,3 +9,10 @@ tags: ["Content management"]
 #Chunking
 ---
 Breaking information into smaller “chunks” so it’s easier to understand and digest. By creating visual entry points, it makes it easier for the user to navigate the document and scan for the information they are looking for or get the key highlights
+
+``` toml
+if="you looked here first"
+then="code blocks are an effective example of information chunking"
+else="...?"
+profit=[true]
+```

@@ -2,6 +2,7 @@
 weight: 1000
 title: "Information Blocks"
 linkTitle: "Information Blocks"
+titleIcon: "fa-solid fa-cube"
 description: "How information blocks fascilitate reuse"
 categories: ["Organizing information"]
 tags: ["Content management"]
@@ -32,10 +33,17 @@ Chunking, Relevance, Consistency, Labeling
 |No topic sentence, label instead|Use topic sentences, labels optional|
 
 ## Examples of information blocks
-- Title
-- Instruction
-- Introduction
-- Warning
+
+# Title
+
+1. Instruction,
+1. Instruction, and
+1. Instructions.
+---
+Introduction, introducing the intro.
+
+{{< alert type="warning" >}}Warning block {{< /alert >}}
+
 - Analogy
 - Diagram
 - Objectives

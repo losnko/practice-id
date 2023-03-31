@@ -21,21 +21,34 @@ We hope this guide can help readers recognize how information architecture is ut
 
 ---
 
-Information architecture is a system to label and organize information in a way that makes sense to users, so they can navigate and find information. It covers a broad range of topics and mediums to combat information overload and navigational concerns. Information architecture is used to structure the information in a way that the end user gets the simplest experience, and when done well should seem intuitive.
+Information architecture is a system to label and organize information in a way that makes sense to users, so they can navigate and find information. It covers a broad range of topics and mediums to combat information overload and navigational concerns.
 
-On documents, it should allow the reader to skim headings and be able to understand the key findings or message the designer wants them to know. In a digital space, information architecture should allow the user to navigate and find what they are looking for on websites and apps without getting lost or frustrated. It should
- 
-Information architecture is concerned with:
-- Users: Who is the audience, what are their needs, what is the user experience?
-- Context: What is the environment, resources, and constraints on the project, as well as the broader societal context?
-- Content: What is the information, data, objectives that need to be shown to the user?
+Information architecture is used to structure the information in a way that the end user gets the simplest experience, and when done well should seem intuitive.
 
-{{< blockquote >}}
-PLACEHOLDER IMAGINE A *wonderful* IMAGE
-{{< /blockquote >}}
+On documents, it should allow the reader to skim headings and be able to understand the key findings or message the designer wants them to know. In a digital space, information architecture should allow the user to navigate and find what they are looking for on websites and apps without getting lost or frustrated.
 
-- Users: Audience, tasks, needs, information-seeking behavior, experience
-- Content: Document/data types, content objects, volume, existing structure
-- Context: Business goals, funding, politics, culture, technology, resources, and constraints
+## Information architecture is concerned with:
 
-By looking at these three factors, information architecture can be used to organize the information required, to get the best user experience and convey information through design. In any form of user experience, information architecture is essential, and without it the user experience can be miserable.
+**Users**
+  - Who is the audience, what are their needs, what is the user experience?
+  - Audience, tasks, needs, information-seeking behavior, experience
+
+
+**Context**
+  - What is the environment, resources, and constraints on the project, as well as the broader societal context?
+  - Business goals, funding, politics, culture, technology, resources, and constraints
+
+
+**Content**
+  - What is the information, data, objectives that need to be shown to the user?
+  - Document/data types, content objects, volume, existing structure
+
+### Information Architecture Venn Diagram
+By looking at these three factors, information architecture can be used to organize the information required, to get the best user experience and convey information through design. In all forms of user experience, information architecture is essential, and without it the user experience can be miserable.
+
+![Three circle overlapping in one area to indicate commonalities between topics](/introduction/venn.png)
+
+
+The venn diagram representation of how information architecture is the intersection of context, content, and users[^1]
+
+[^1]: Rosenfeld et al., 2015.
