@@ -22,8 +22,8 @@ Information organization is the process of making data meaningful by organizing 
 ### LATCH
 
 The most common ways to organize information make up the acronym LATCH.
-1. Location 
-1. Alphabet
-1. Time
-1. Category
-1. Hierarchy
+1. **L**ocation 
+1. **A**lphabet
+1. **T**ime
+1. **C**ategory
+1. **H**ierarchy

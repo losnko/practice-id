@@ -11,11 +11,9 @@ tags: ["Content management"]
 ---
 In a digital world where we are overloaded with all the information we could want at our fingertips, it can be overwhelming to try and sort through it all. Information architecture is the solution to that problem.
 
-Similar to IT, people often don’t think about information architecture unless it’s done badly. Good information architecture means a user is easily able to navigate a website, app, or skim a document to find important information. While bad information architecture can leave a user staring blankly at a wall of text, or leaving a website when they can’t find the information or service they are looking for.
+Similar to IT, people often don’t think about information architecture *until* it’s done poorly. Good information architecture means a user is easily able to navigate a website, app, or skim a document to find important information.
 
-In this text we will walk you through an introduction to the main principles of information architecture, the framework that should be utilized when structuring information for users, some examples of good and bad information architecture, and links to additional resources for those who wish to learn more.
-
-We hope this guide can help readers recognize how information architecture is utilized in the world around them. And we hope that once readers finish this text they’ll be able to create documents, websites, and applications that users can easily understand and navigate.
+While bad information architecture can leave a user staring blankly at a wall of text, or leaving a website when they can’t find the information or service they are looking for.
 
 ## What is information architecture?
 

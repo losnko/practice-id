@@ -13,7 +13,7 @@
       
       <guid>https://practice-of-information.netlify.app/introduction/</guid>
       <description>Information architecture # In a digital world where we are overloaded with all the information we could want at our fingertips, it can be overwhelming to try and sort through it all. Information architecture is the solution to that problem.
-Similar to IT, people often don’t think about information architecture unless it’s done badly. Good information architecture means a user is easily able to navigate a website, app, or skim a document to find important information.</description>
+Similar to IT, people often don’t think about information architecture until it’s done poorly. Good information architecture means a user is easily able to navigate a website, app, or skim a document to find important information.</description>
     </item>
     
     <item>
@@ -77,16 +77,6 @@ When organizing information: # All information should be easy to locate The most
     </item>
     
     <item>
-      <title>Size</title>
-      <link>https://practice-of-information.netlify.app/visual_design/size/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://practice-of-information.netlify.app/visual_design/size/</guid>
-      <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
-Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
-    </item>
-    
-    <item>
       <title>Readability</title>
       <link>https://practice-of-information.netlify.app/visual_design/readability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -123,7 +113,8 @@ Information mapping allows you to transform a wall of text into clear informatio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://practice-of-information.netlify.app/visual_design/</guid>
-      <description>Visual Design: # When designing applications, websites, or any type of display of content, it is important to consider the readability, colour scheme, vocabulary, font types, text alignment, etc. The main goal of a designer should always be to support reading and understand that skilled reading is based on feature, character, and word recognition. To provide legibility for all users’, designers should be conscious of the following:</description>
+      <description>Visual Design: # When designing applications, websites, or any type of display of content, it is important to consider the readability, colour scheme, vocabulary, font types, text alignment, etc.
+The main goal of a designer should always be to support reading and understand that skilled reading is based on feature, character, and word recognition. To provide legibility for all users’, designers should be conscious of the following:</description>
     </item>
     
     <item>

@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/tags/user-experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Online Usability</title>
+      <link>https://practice-of-information.netlify.app/usability/online_usability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/usability/online_usability/</guid>
+      <description>Online Usability # To ensure online usability, website designers need to incorporate familiar conventions such as search, navigation, tables of contents and indexes.
+While website indexes may not need to be as extensive as their print counterparts, they still provide overviews, perspectives, and efficient navigation that readers will appreciate.
+Navigation # Navigation plays a crucial role in online usability. Wayfinding, a concept in navigation, has four core components: orientation, route decisions, mental mapping, and closure.</description>
+    </item>
+    
+    <item>
       <title>Usability</title>
       <link>https://practice-of-information.netlify.app/usability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,15 +27,6 @@
 It encompasses factors such as:
 Ease of navigation, Clarity of content, and Overall User Experience (UX). Usability is a critical aspect of information architecture as it directly affects user satisfaction, engagement, and retention.
 A usable information architecture is one that is designed with the user in mind, making it easy for them to find what they are looking for and accomplish their tasks efficiently and effectively.</description>
-    </item>
-    
-    <item>
-      <title>Requirement</title>
-      <link>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</guid>
-      <description>Requirements # Measuring usability begins with understanding the requirements of the product or service being tested. This involves gathering information on user needs, tasks, and goals, and using this information to inform the design of the product or service. By clearly defining the requirements upfront, usability testing can be focused on measuring how well the product or service meets these requirements.</description>
     </item>
     
     <item>
@@ -52,10 +54,8 @@ For example, during the development of a healthcare portal, users are asked to s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://practice-of-information.netlify.app/usability/measuring_usability/</guid>
-      <description>Measuring usability # “Many people seem to think of the user experience as some nebulous quality that can’t be measured or quantified. It can, and the tools for measuring it are metrics like the following:
-Can users use their smartphone successfully to find the nearest doctor that’s in their health plan?
-How long does it take users to make a flight reservation using a travel website?
-How many errors do users make in trying to log in to a new system?</description>
+      <description>Measuring usability # People seem to think of the user experience can’t be measured or quantified. It can, and the tools for measuring it are metrics like the following:
+&amp;ldquo;Success rates, times, number of mouse clicks or keystrokes, self-reported ratings of frustration or delight, and even the number of visual fixations on a link on a webpage are all examples of UX metrics and these metrics can give you invaluable insight into the user experience&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -64,7 +64,8 @@ How many errors do users make in trying to log in to a new system?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://practice-of-information.netlify.app/usability/measuring_usability/tree_testing/</guid>
-      <description>Tree Testing # Tree testing is a usability testing method that involves testing the organization and labelling of a website or application without the distraction of visual design. This approach helps to identify areas where users may struggle to find information or navigate the site. Measuring usability with tree testing involves evaluating how confidently users are able to complete tasks using the site structure and labelling, and identifying areas where improvements can be made.</description>
+      <description>Tree Testing # Tree testing is a usability testing method that involves testing the organization and labelling of a website or application without the distraction of visual design. This approach helps to identify areas where users may struggle to find information or navigate the site.
+Measuring usability with tree testing involves evaluating how confidently users are able to complete tasks using the site structure and labelling, and identifying areas where improvements can be made.</description>
     </item>
     
     <item>

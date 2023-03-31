@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/usability/measuring_usability/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Requirement</title>
-      <link>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</guid>
-      <description>Requirements # Measuring usability begins with understanding the requirements of the product or service being tested. This involves gathering information on user needs, tasks, and goals, and using this information to inform the design of the product or service. By clearly defining the requirements upfront, usability testing can be focused on measuring how well the product or service meets these requirements.</description>
-    </item>
-    
-    <item>
       <title>Rapid Prototype</title>
       <link>https://practice-of-information.netlify.app/usability/measuring_usability/rapid_prototype/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,7 +31,8 @@ For example, during the development of a healthcare portal, users are asked to s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://practice-of-information.netlify.app/usability/measuring_usability/tree_testing/</guid>
-      <description>Tree Testing # Tree testing is a usability testing method that involves testing the organization and labelling of a website or application without the distraction of visual design. This approach helps to identify areas where users may struggle to find information or navigate the site. Measuring usability with tree testing involves evaluating how confidently users are able to complete tasks using the site structure and labelling, and identifying areas where improvements can be made.</description>
+      <description>Tree Testing # Tree testing is a usability testing method that involves testing the organization and labelling of a website or application without the distraction of visual design. This approach helps to identify areas where users may struggle to find information or navigate the site.
+Measuring usability with tree testing involves evaluating how confidently users are able to complete tasks using the site structure and labelling, and identifying areas where improvements can be made.</description>
     </item>
     
     <item>

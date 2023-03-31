@@ -14,7 +14,9 @@ We are a group of information designers who collaborated to produce a set of mat
 
 The result is a collection of information architecture resources.
 
-While comprehensive enough for a fellow designer, the book serves as an introduction to the topic of information architecture for the brave and curious alike.
+While comprehensive enough for a fellow designer, the book serves as an introduction to the topic of information architecture for the brave and curious alike. The guide walks readers through an introduction to the main principles of information architecture, the framework that should be utilized when structuring information for users, some examples of good and bad information architecture, and links to additional resources for those who wish to learn more.
+
+We hope this guide can help readers recognize how information architecture is utilized in the world around them. And we hope that once readers finish this text they’ll be able to create documents, websites, and applications that users can easily understand and navigate.
 
 Additionally, this website serves a digital companion to the aforementioned material.    
 

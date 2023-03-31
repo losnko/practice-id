@@ -1309,29 +1309,27 @@
     
     <div >
       <div >
-        <li class='is-marginless is-entries-expandable is-entries-expanded'>
+        <li class='is-marginless'>
           <div class='card'>
             
   
   
-    <div class='card-header'>
-      <a href='/usability/measuring_usability/' class='card-header-title' title='Measuring Usability'>
-        <i class='fa-solid fa-bullhorn'></i>
-        <p class='pt-0 pb-0 pr-2 pl-0'>Measuring Usability</p>
+    <div class='card-header is-single-link'>
+      <a href='/usability/online_usability/' class='card-header-title' title='Online Usability'>
+        <i class='fa-solid fa-wifi'></i>
+        <p class='pt-0 pb-0 pr-2 pl-0'>Online Usability</p>
       </a>
   
 
             
-                <a class='card-header-icon is-icon-expandable is-paddingless is-icon-expanded'>
-                  <span class='icon'></span>
-                </a>
             </div>
           </div>
-          <ul class='is-marginless'>
-            
-              
-            
-            
+          
+        </li>
+      </div>
+    </div>
+  
+
             
               
   
@@ -1359,27 +1357,29 @@
     
     <div >
       <div >
-        <li class='is-marginless'>
+        <li class='is-marginless is-entries-expandable is-entries-expanded'>
           <div class='card'>
             
   
   
-    <div class='card-header is-single-link'>
-      <a href='/usability/measuring_usability/requirements/' class='card-header-title' title='Requirement'>
-        <i class='fa-solid fa-user-gear'></i>
-        <p class='pt-0 pb-0 pr-2 pl-0'>Requirement</p>
+    <div class='card-header'>
+      <a href='/usability/measuring_usability/' class='card-header-title' title='Measuring Usability'>
+        <i class='fa-solid fa-mobile'></i>
+        <p class='pt-0 pb-0 pr-2 pl-0'>Measuring Usability</p>
       </a>
   
 
             
+                <a class='card-header-icon is-icon-expandable is-paddingless is-icon-expanded'>
+                  <span class='icon'></span>
+                </a>
             </div>
           </div>
-          
-        </li>
-      </div>
-    </div>
-  
-
+          <ul class='is-marginless'>
+            
+              
+            
+            
             
               
   
@@ -1510,7 +1510,7 @@
   
     <div class='card-header is-single-link'>
       <a href='/usability/measuring_usability/tree_testing/' class='card-header-title' title='Tree Testing'>
-        <i class='fa-solid fa-mobile-screen-button'></i>
+        <i class='fa-solid fa-code-branch'></i>
         <p class='pt-0 pb-0 pr-2 pl-0'>Tree Testing</p>
       </a>
   
@@ -1783,54 +1783,6 @@
   
   
     <div class='card-header is-single-link'>
-      <a href='/visual_design/size/' class='card-header-title' title='Size'>
-        <i class='fa-solid fa-table-cells'></i>
-        <p class='pt-0 pb-0 pr-2 pl-0'>Size</p>
-      </a>
-  
-
-            
-            </div>
-          </div>
-          
-        </li>
-      </div>
-    </div>
-  
-
-            
-              
-  
-  
-  
-    
-  
-  
-    
-      
-    
-    
-      
-      
-        
-          
-        
-      
-    
-    
-    
-      
-    
-    
-    
-    <div >
-      <div >
-        <li class='is-marginless'>
-          <div class='card'>
-            
-  
-  
-    <div class='card-header is-single-link'>
       <a href='/visual_design/readability/' class='card-header-title' title='Readability'>
         <i class='fa-solid fa-eye-low-vision'></i>
         <p class='pt-0 pb-0 pr-2 pl-0'>Readability</p>
@@ -2012,7 +1964,21 @@
   <a href='#card-sorting' class='anchor'>#</a>
 </h1><p>Card sorting is a user-centred design method for evaluation that involves organizing content into categories based on user feedback. This method is used to create an information architecture that is intuitive and easy to navigate. Measuring usability with card sorting involves testing how well users are able to understand and navigate the product and identifying areas where improvements can be made.</p>
 <p>For example, during the development of a healthcare portal, users are asked to sort a list of medical conditions into categories that make sense to them. The categories that emerge from this exercise are used to inform the organization and labelling of the site&rsquo;s navigation structure.</p>
-<p>The metric being measured is: the number of participants who are able to create the same or similar categories, indicating a consistent mental model of the proposed information architecture.</p>
+<pre tabindex="0"><code class="language-mermaid" data-lang="mermaid">graph LR
+    subgraph Category 3
+    c1(Label) --&gt; c2(Result)
+    a3(Test) --&gt; c1 
+    end
+    subgraph Category 2
+    b1(Label 2) --&gt; b2(Result)
+    b3(Label 3) --&gt; b2
+    end
+    subgraph Category 1
+    a1(Condition) --&gt; a2(Result)
+    a1 --&gt; b1
+    a1 --&gt; c1
+    end
+</code></pre><p>The metric being measured is: the number of participants who are able to create the same or similar categories, indicating a consistent mental model of the proposed information architecture.</p>
 <p>This metric relates to measuring usability and evaluating the information architecture by: testing the intuitiveness of the site&rsquo;s placement and labelling of medical conditions.</p>
 
   </div>
@@ -2084,6 +2050,8 @@
 
 
   
+    
+  
 
 
 
@@ -2153,6 +2121,16 @@
       
     
     <script type='module' src='/js/external/overlay-scrollbars/OverlayScrollbars.min.js'></script>
+  
+    
+      
+    
+    <script type='module' src='/js/external/mermaid/mermaid.min.js'></script>
+  
+    
+      
+    
+    <script type='module' src='/js/fencedcodes/mermaid.min.js'></script>
   
 
 
