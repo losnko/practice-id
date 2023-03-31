@@ -51,3 +51,4 @@ Vertical
 
 Image Maps
 : buttons, colours, roll-overs, icons
+

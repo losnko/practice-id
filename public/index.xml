@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Practice of Information Design on The Practice of Information Architecture</title>
+    <link>https://practice-of-information.netlify.app/</link>
+    <description>Recent content in The Practice of Information Design on The Practice of Information Architecture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>https://practice-of-information.netlify.app/introduction/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/introduction/glossary/</guid>
+      <description>Glossary # TERM DEFINITION Chunking Breaking information into digestible pieces, all information in a chunk will be on the same subject. Classification Refers to the grouping of a set of specimens into classes or categories, based on some criteria. Closure Helping users recognize when they have arrived at the right place in a website or application. Concept Refers to a group of physical objects, conditions, relations, events, or ideas that share a unique combination of attributes not shared by other groups, and can be identified by one or more words or symbols.</description>
+    </item>
+    
+    <item>
+      <title>Information Blocks</title>
+      <link>https://practice-of-information.netlify.app/organizing_information/information_blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/organizing_information/information_blocks/</guid>
+      <description>Information Blocks # Information Blocks are an alternative way to present and analyze information instead of a paragraph. They are used for small bits of sections of information grouped together with a specific purpose, such as instructions, warnings, steps, or short documents like procedure, policy, and process documentation.
+Characteristics of an information block Short sentences (2-9) Short paragraphs Single or limited topic Always has a label Can be a diagram Constructed via 4 Principles Chunking, Relevance, Consistency, Labeling</description>
+    </item>
+    
+    <item>
+      <title>Chunking</title>
+      <link>https://practice-of-information.netlify.app/organizing_information/chunking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/organizing_information/chunking/</guid>
+      <description> #Chunking # Breaking information into smaller “chunks” so it’s easier to understand and digest. By creating visual entry points, it makes it easier for the user to navigate the document and scan for the information they are looking for or get the key highlights
+if=&amp;#34;you looked here first&amp;#34; then=&amp;#34;code blocks are an effective example of information chunking&amp;#34; else=&amp;#34;...?&amp;#34; profit=[true] </description>
+    </item>
+    
+    <item>
+      <title>Colour Contrast</title>
+      <link>https://practice-of-information.netlify.app/visual_design/colour_contrast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/visual_design/colour_contrast/</guid>
+      <description>Designing With Colour # Colour Contrast: # Our visual system combines the signals from retinal cone cells to produce three colour-opponent channels:
+red-green, yellow-blue, and black-white. The colours that people can distinguish easiest are those that cause a strong signal (positive or negative). Not surprisingly, those colours are red, green, yellow, blue, black, and white. All other colour cause signals on more than one colour channel, causing our visual system to struggle to distinguish between them as quickly as the listed six colours.</description>
+    </item>
+    
+    <item>
+      <title>Labels</title>
+      <link>https://practice-of-information.netlify.app/organizing_information/labels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/organizing_information/labels/</guid>
+      <description>Labels # Labels act as shortcuts to communicate information efficiently. They are used for guiding readers or users while navigating the site by scanning for the relevant label.
+If someone wants to find contact information for a business they’ll look for a contact label, if they want to navigate back to the home page they will look for the home button or text, a restaurant webpage will normally have a menu label.</description>
+    </item>
+    
+    <item>
+      <title>Size</title>
+      <link>https://practice-of-information.netlify.app/visual_design/size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/visual_design/size/</guid>
+      <description>Colour contrast # Additionally, this project features callouts: # This an example of info type callout/alert This an example of success type callout/alert This an example of warning type callout/alert This an example of error type callout/alert Blockquotes # Ho, ho, ho! Information Architecture ~ Santa Clause
+Drawers # Expand/Collapse These collapsible blocks help reduce information displayed on screen at one time Data visualizations # Loading Project management # Loading Information tree # Directory</description>
+    </item>
+    
+    <item>
+      <title>Readability</title>
+      <link>https://practice-of-information.netlify.app/visual_design/readability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/visual_design/readability/</guid>
+      <description>Readability of Content: # Unfamiliar/Uncommon Vocabulary: # Use vocabulary that readers are familiar with and don’t disrupt the flow of freaking - stick to words that are easy to understand.
+Difficult Script/Typefaces: # Fonts with minimal spacing or difficult shapes make it difficult to recognize - stick to simple, easy-to-read fonts.
+Tiny Fonts: # Fonts that are too small can cause the readers’ visual system to be unable to read the content - stick to a font size that is appropriate for all audiences.</description>
+    </item>
+    
+    <item>
+      <title>Size &amp; Content</title>
+      <link>https://practice-of-information.netlify.app/organizing_information/size_content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/organizing_information/size_content/</guid>
+      <description>Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+H1 # H2 # H3 # H4 # H5 # H6 # Paragraph # Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+    </item>
+    
+    <item>
+      <title>Information Map/Template</title>
+      <link>https://practice-of-information.netlify.app/organizing_information/information_map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/organizing_information/information_map/</guid>
+      <description>Information Maps &amp;amp; Templates # An information map is a way of structuring information on a page using two or more information block types. Each block is short, spaced out, and chunked into different sections that contain a single topic with no irrelevant information.
+Information mapping allows you to transform a wall of text into clear information with road posts (labels) people can skim and look at to digest the information quickly.</description>
+    </item>
+    
+    <item>
+      <title>Tables</title>
+      <link>https://practice-of-information.netlify.app/organizing_information/tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/organizing_information/tables/</guid>
+      <description> Tables # Name Age Bob 27 Alice 23 Italics Bold Code italics bold code one two three four five 1111 22222 3333 44444 5555 </description>
+    </item>
+    
+    <item>
+      <title>Examples</title>
+      <link>https://practice-of-information.netlify.app/information_types/good_examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/information_types/good_examples/</guid>
+      <description>Examples of Information Types: # When compiling information, there are specific examples of information types that a designer can follow, for instance:
+Site Mapping: # Refers to the process of creating a visual representation of a website’s structure, layout, and content.
+Tap + to explore the interactive map of this site The Practice of Information Design
+Information Architecture
+Glossary
+Information types
+Examples
+Organizing Information
+Information Blocks
+Chunking
+Labels
+Size &amp;amp; Content</description>
+    </item>
+    
+    <item>
+      <title>Requirement</title>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/requirements/</guid>
+      <description>Requirements # Measuring usability begins with understanding the requirements of the product or service being tested. This involves gathering information on user needs, tasks, and goals, and using this information to inform the design of the product or service. By clearly defining the requirements upfront, usability testing can be focused on measuring how well the product or service meets these requirements.</description>
+    </item>
+    
+    <item>
+      <title>Good vs bad design</title>
+      <link>https://practice-of-information.netlify.app/visual_design/bad_examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/visual_design/bad_examples/</guid>
+      <description>Good Vs. Bad Design: # Design can be evaluated by clarity, consistency, and understanding the user&amp;rsquo;s goals. Designers should stay consistent with their content, ensuring that the information is legible and stays within the topic category.
+Avoid Ambiguity: # Use clear information displays and test your design to ensure that all users understand the display in the same way. Where ambiguity is avoidable, use standards or conventions to resolve it, and stay uniform.</description>
+    </item>
+    
+    <item>
+      <title>Rapid Prototype</title>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/rapid_prototype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/rapid_prototype/</guid>
+      <description>Rapid Prototype # Rapid prototyping is a design technique that involves quickly creating a low-fidelity version of a product or service to test usability. This approach allows designers to gather feedback early in the design process and make iterative improvements before investing in more expensive design work. Measuring usability with rapid prototyping involves testing how well users are able to interact with the prototype and identifying areas where improvements can be made.</description>
+    </item>
+    
+    <item>
+      <title>Card Sorting</title>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/card_sort/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/card_sort/</guid>
+      <description>Card Sorting # Card sorting is a user-centred design method for evaluation that involves organizing content into categories based on user feedback. This method is used to create an information architecture that is intuitive and easy to navigate. Measuring usability with card sorting involves testing how well users are able to understand and navigate the product and identifying areas where improvements can be made.
+For example, during the development of a healthcare portal, users are asked to sort a list of medical conditions into categories that make sense to them.</description>
+    </item>
+    
+    <item>
+      <title>Tree Testing</title>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/tree_testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/tree_testing/</guid>
+      <description>Tree Testing # Tree testing is a usability testing method that involves testing the organization and labelling of a website or application without the distraction of visual design. This approach helps to identify areas where users may struggle to find information or navigate the site. Measuring usability with tree testing involves evaluating how confidently users are able to complete tasks using the site structure and labelling, and identifying areas where improvements can be made.</description>
+    </item>
+    
+    <item>
+      <title>Performance Testing</title>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/performance_testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/performance_testing/</guid>
+      <description>Performance Testing: # Performance testing is a usability testing method that involves testing how well a product or service performs under different conditions. This includes testing speed, responsiveness, and stability. Measuring usability with performance testing involves identifying the most important performance metrics for the product or service and testing how well it performs under different conditions.
+For example, testing a mobile game performance by measuring the time it takes for the game to load on different devices and network speeds.</description>
+    </item>
+    
+    <item>
+      <title>Learnability</title>
+      <link>https://practice-of-information.netlify.app/usability/measuring_usability/learnability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/usability/measuring_usability/learnability/</guid>
+      <description>Learnability: # Learnability is a measure of how easy it is for users to learn how to use a product or service. Measuring learnability involves testing how quickly users are able to complete tasks with minimal training or guidance. This can include testing how easily users are able to navigate the interface, understand terminology, and complete common tasks. By measuring learnability, designers can identify areas where the product or service can be made more intuitive and easy to use.</description>
+    </item>
+    
+  </channel>
+</rss>

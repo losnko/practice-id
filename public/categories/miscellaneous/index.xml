@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous on The Practice of Information Architecture</title>
+    <link>https://practice-of-information.netlify.app/categories/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on The Practice of Information Architecture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://practice-of-information.netlify.app/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>https://practice-of-information.netlify.app/introduction/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/introduction/glossary/</guid>
+      <description>Glossary # TERM DEFINITION Chunking Breaking information into digestible pieces, all information in a chunk will be on the same subject. Classification Refers to the grouping of a set of specimens into classes or categories, based on some criteria. Closure Helping users recognize when they have arrived at the right place in a website or application. Concept Refers to a group of physical objects, conditions, relations, events, or ideas that share a unique combination of attributes not shared by other groups, and can be identified by one or more words or symbols.</description>
+    </item>
+    
+    <item>
+      <title>Sitemap</title>
+      <link>https://practice-of-information.netlify.app/sitemap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://practice-of-information.netlify.app/sitemap/</guid>
+      <description>The Practice of Information Design
+Information Architecture
+Glossary
+Information types
+Examples
+Organizing Information
+Information Blocks
+Chunking
+Labels
+Size &amp;amp; Content
+Information Map/Template
+Tables
+Usability
+Measuring Usability
+Requirement
+Rapid Prototype
+Card Sorting
+Tree Testing
+Performance Testing
+Learnability
+Visual Design
+Colour Contrast
+Size
+Readability
+Good vs bad design
+Sitemap</description>
+    </item>
+    
+  </channel>
+</rss>
