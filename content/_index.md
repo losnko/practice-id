@@ -31,9 +31,9 @@ Additionally, this website serves a digital companion to the aforementioned mate
 
 ## A Project Authored By:
 
-* [Jocelyn Baker](https://example.com)
+* [Jocelyn Baker](https://jocelynbakerweb.com/index.php/portfolio/)
 * [Jolene Follgard](https://jolenefollgard.myportfolio.com)
-* [Grace Murray](https://example.com)
-* [Lucas Pisano](https://example.com)
+* [Grace Murray](https://www.linkedin.com/in/grace-murray-31405b209)
+* [Lucas Pisano](https://ca.linkedin.com/in/lucas-pisano-b18b9619b)
 * [Logan Senko](https://senkolo.xyz/)
 * [Rachel Yuen](https://rachel-yuen.myportfolio.com/)

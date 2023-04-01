@@ -23,6 +23,8 @@ Information architecture is a system to label and organize information in a way 
 
 Information architecture is used to structure the information in a way that the end user gets the simplest experience, and when done well should seem intuitive.
 
+{{< youtube OJLfjgVlwDo >}}
+
 On documents, it should allow the reader to skim headings and be able to understand the key findings or message the designer wants them to know. In a digital space, information architecture should allow the user to navigate and find what they are looking for on websites and apps without getting lost or frustrated.
 
 ## Information architecture is concerned with:
@@ -50,3 +52,8 @@ By looking at these three factors, information architecture can be used to organ
 The venn diagram representation of how information architecture is the intersection of context, content, and users[^1]
 
 [^1]: Rosenfeld et al., 2015.
+
+## Deep-Dive: IA Workshop
+
+For a more comprehensive explanation, check out Flux Academy's course on information architecture and content strategy.
+{{< youtube j0y8YBhDjIA >}}

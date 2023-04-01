@@ -20,3 +20,5 @@ Place information and controls in consistent locations. Controls and data displa
 
 ### Understand Users Goals:
 Users come to a system with goals they wish to achieve. Designers should understand those potential goals. Realize that users’ goals may vary and that their goals strongly influence what they perceive. Ensure that at every point in an interaction, the information users need is available, prominent and maps clearly to a possible user goal, so users will use the information.
+
+{{< youtube PYZwBDlK8Sg >}}
